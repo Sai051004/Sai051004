@@ -1,21 +1,36 @@
-# Hi 👋, I'm Merugu Saikiran
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Merugu%20Sai%20Kiran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=58&descSize=18" />
+</p>
 
-### A passionate Full-Stack Developer building scalable systems with GenAI
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Kiran;Building+GenAI-powered+apps;RAG+%7C+LLMs+%7C+Voice+AI;Turning+AI+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I'm currently working on **Full-stack applications integrated with GenAI (RAG, LLMs, voice AI) and scalable backend systems.**
-- 🌱 I'm currently learning **MLOps, advanced LLM evaluation, and cloud-native backend architectures.**
-- 👯 I'm looking to collaborate on **GenAI products, AI agent workflows, and modern full-stack projects.**
-- 🤝 I'm looking for help with **Production-level ML deployment, system design, and scaling AI systems.**
-- 💬 Ask me about **RAG pipelines, Vector Databases, React + Spring Boot, or building end-to-end AI systems.**
-- 📫 How to reach me **merugusaikiran05@gmail.com**
-- ⚡ Fun fact **I enjoy turning complex AI ideas into working products.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:merugusaikiran05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sai051004&style=for-the-badge&color=BB9AF7&label=Profile+Views" />
+</p>
 
 ---
 
-### 🚀 Languages and Tools:
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,aws,babel,bootstrap,c,cpp,css,cypress,docker,express,fastapi,flask,git,graphql,html,java,js,jenkins,jest,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,python,pytorch,react,redis,redux,spring,tailwind,tensorflow,ts,vue" />
+- 🔭 Currently working on GenAI-powered full-stack apps
+- 🌱 Learning MLOps and LLM evaluation
+- 💬 Ask me about RAG and vector databases
+- ⚡ Fun fact: I enjoy turning complex AI ideas into working products
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,flask,pytorch,tensorflow,mongodb,mysql,git,linux&perline=7&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -23,5 +38,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sai051004&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://raw.githubusercontent.com/sai051004/sai051004/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="160" src="https://raw.githubusercontent.com/sai051004/sai051004/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=sai051004&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai051004&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai051004/sai051004/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/sai051004/sai051004/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" />
 </p>
