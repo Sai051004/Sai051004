@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:merugusaikiran05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=merugusaikiran05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sai051004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=sai051004&style=for-the-badge&color=BB9AF7&label=Profile+Views" />
 </p>
 
@@ -34,22 +35,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/sai051004/sai051004/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="160" src="https://raw.githubusercontent.com/sai051004/sai051004/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-</p>
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=sai051004&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai051004&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
 
 ### 🐍 Contribution Snake
 
