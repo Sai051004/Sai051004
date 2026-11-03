@@ -17,16 +17,11 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **AI-powered applications and scalable backend systems**
-- 🌱 I'm currently learning **MLOps, LLM evaluation, and cloud-native architecture**
-- 👯 I'm looking to collaborate on **AI agents, chatbots, and open-source projects**
-- 🤝 I'm looking for help with **production-level ML deployment and system design**
-- 💬 Ask me about **RAG pipelines, vector databases, and LLM workflows**
-- 🧩 I've solved **450+ coding problems** on LeetCode and GeeksforGeeks
-- 📫 How to reach me: **merugusaikiran05@gmail.com**
-- ⚡ Fun fact: **I enjoy turning complex AI ideas into working products**
+I'm a Computer Science graduate from IIIT Sri City and currently an SDE (AI) Intern at PharmEasy, where I work on AI-powered applications and scalable backend systems. I enjoy building with RAG pipelines, vector databases, and LLM workflows, and turning complex AI ideas into working products.
+
+Right now I'm learning MLOps, LLM evaluation, and cloud-native architecture. I'm open to collaborating on AI agents, chatbots, and open-source projects. Feel free to reach out at **merugusaikiran05@gmail.com**.
 
 ---
 
@@ -40,10 +35,10 @@
 
 ---
 
-### 📅 Contributions
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/Sai051004" alt="Sai051004's GitHub contributions" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sai051004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <!-- Animated Footer -->
