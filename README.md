@@ -21,7 +21,7 @@
 
 I'm a Computer Science graduate from IIIT Sri City and currently an SDE (AI) Intern at PharmEasy, where I build LLM-powered chatbot workflows and AI/ML data pipelines that run in production on Python, SQL, Hadoop, Hive, and Apache Airflow. I love working across the stack, from designing RAG pipelines with Sentence Transformers and FAISS to building React and FastAPI apps around them. Some of my favourite projects include a voice-to-voice hospital search assistant powered by Whisper and Gemini, a multilingual chatbot that helps farmers in six languages, and a graph neural network model for predicting disease associations.
 
-Right now I'm learning MLOps, LLM evaluation, and cloud-native backend architecture, with the goal of taking AI systems from prototype to reliable, scalable production. Outside of work, I enjoy problem solving and have solved 450+ coding problems on LeetCode and GeeksforGeeks. I'm always open to collaborating on AI agents, chatbots, and open-source projects, so feel free to reach out at **merugusaikiran05@gmail.com**.
+I've worked on MLOps, LLM evaluation, and cloud-native backend architecture, taking AI systems from prototype to reliable, scalable production. Outside of work, I enjoy problem solving and have solved 450+ coding problems on LeetCode and GeeksforGeeks. I'm always open to collaborating on AI agents, chatbots, and open-source projects, so feel free to reach out at **merugusaikiran05@gmail.com**.
 
 ---
 
