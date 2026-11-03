@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Kiran;Building+AI-powered+apps;RAG+%7C+LLMs+%7C+Voice+AI;Turning+AI+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Kiran" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,10 +19,11 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-- 🔭 Currently working on AI-powered apps
-- 🌱 Learning MLOps and LLM evaluation
-- 💬 Ask me about RAG and vector databases
-- ⚡ Fun fact: I enjoy turning complex AI ideas into working products
+- 🔭 I'm currently working on **AI-powered applications**
+- 🌱 I'm currently learning **MLOps and LLM evaluation**
+- 💬 Ask me about **RAG pipelines and vector databases**
+- 📫 How to reach me: **merugusaikiran05@gmail.com**
+- ⚡ Fun fact: **I enjoy turning complex AI ideas into working products**
 
 ---
 
