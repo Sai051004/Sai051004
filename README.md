@@ -34,17 +34,6 @@
   </a>
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai051004/sai051004/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/sai051004/sai051004/output/github-snake.svg" />
-  </picture>
-</p>
-
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" />
